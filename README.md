@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kaviya 👋</h1>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0AAFFF,100:0d1117&height=200&section=header&text=AI%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20ML%20%26%20GenAI%20systems&descAlignY=65&descSize=18)
+[Header](https://capsule-render.vercel.app/api?type=waving&color=0:0AAFFF,100:0d1117&height=200&section=header&text=AI%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20ML%20%26%20GenAI%20systems&descAlignY=65&descSize=18)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AAFFF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+%2B+GenAIOps;Azure+MLOps+%26+Text-to-SQL+Systems;Always+learning%2C+always+building)
 
