@@ -44,6 +44,12 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi274&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavi274/Kavi274/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kavi274/Kavi274/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Kavi274/Kavi274/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
 
 ## 🧰 Tech Stack
