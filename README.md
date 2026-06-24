@@ -18,7 +18,7 @@
 - 💼 Building AI/ML tools for the hospitality platform
 - ☁️ Hands-on with **Azure AI Foundry**, MLOps pipelines, and GenAIOps practices
 - 🛠️ Recently shipped an end-to-end Text-to-SQL chatbot for hotel revenue & occupancy analytics
-- 🧠 Fun fact: Neural networks were inspired by the brain, but a single human brain still uses way less power than training one large mode!!!
+- ☕ Fun fact: Debugging neural networks runs on caffeine, not GPUs
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
 
@@ -60,12 +60,45 @@
   <img src="https://skillicons.dev/icons?i=js,react,html,css,mysql,git,github,linux,vscode&theme=dark&perline=9" />
 </div>
 
-<div align="center">
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
+**Languages**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+**AI & LLM Engineering**
+<div>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-4A4A4A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge" />
+</div>
+
+**Machine Learning & Data**
+<div>
+  <img src="https://img.shields.io/badge/Scikit--learn-2E86AB?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-34A853?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-7B2CBF?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-00758F?style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+
+**Data Engineering & Cloud**
+<div>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
