@@ -55,9 +55,17 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,azure,aws,gcp,js,react&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,azure,aws,gcp,docker,githubactions&theme=dark&perline=10" />
   <br>
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,git,github,linux,vscode&theme=dark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,mysql,git,github,linux,vscode&theme=dark&perline=9" />
+</div>
+
+<div align="center">
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
