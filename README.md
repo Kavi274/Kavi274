@@ -56,10 +56,13 @@
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavi274&bg_color=000000&color=0AAFFF&line=0AAFFF&point=FFFFFF&hide_border=true)
+### 📊 Contribution Activity (Last 30 Days)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavi274&theme=dracula&area=true&hide_border=true)
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavi274&theme=tokyonight)
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
-
 
 ![Profile views](https://komarev.com/ghpvc/?username=Kavi274&color=0AAFFF&style=flat-square)
 
