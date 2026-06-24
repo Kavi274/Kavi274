@@ -62,8 +62,6 @@
 
 ## 📈 Contribution Activity
 
-### 📊 Contribution Activity (Last 30 Days)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavi274&theme=dracula&area=true&hide_border=true)
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavi274&theme=tokyonight)
