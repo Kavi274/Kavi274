@@ -52,13 +52,6 @@
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavi274&theme=tokyonight&column=6&no-frame=true&margin-w=12" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavi274&bg_color=000000&color=0AAFFF&line=0AAFFF&point=FFFFFF&hide_border=true)
