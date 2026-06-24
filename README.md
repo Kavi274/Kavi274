@@ -9,7 +9,7 @@
 </p>
 
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
 
 ## 👨‍💻 About Me
 
@@ -20,7 +20,8 @@
 - 🛠️ Recently shipped an end-to-end Text-to-SQL chatbot for hotel revenue & occupancy analytics
 - 🧠 Fun fact: Neural networks were inspired by the brain, but a single human brain still uses way less power than training one large mode!!!
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
+
 ## 🌐 Socials
 
 <div align="center">
@@ -31,9 +32,10 @@
 
 </div>
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
 
 ## 📊 GitHub Analytics
+
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kavi274&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi274&theme=tokyonight&hide_border=true" />
@@ -42,7 +44,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi274&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
 
 ## 🧰 Tech Stack
 
@@ -50,13 +52,16 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,jupyter,fastapi,azure,aws,gcp,js,react,html,css,mysql,sql,git,github,linux,vscode&theme=dark" />
 </div>
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
 
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kavi274&bg_color=000000&color=0AAFFF&line=0AAFFF&point=FFFFFF&hide_border=true)
 
----
+![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Kavi274&color=0AAFFF&style=flat-square)
 
 
 
