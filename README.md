@@ -55,7 +55,9 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,jupyter,fastapi,azure,aws,gcp,js,react,html,css,mysql,sql,git,github,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,azure,aws,gcp,js,react&theme=dark&perline=9" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,git,github,linux,vscode&theme=dark&perline=7" />
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
