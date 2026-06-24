@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Kaviya 👋</h1>
 
-[Header](https://capsule-render.vercel.app/api?type=waving&color=0:0AAFFF,100:0d1117&height=200&section=header&text=AI%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Building%20ML%20%26%20GenAI%20systems&descAlignY=65&descSize=18)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AAFFF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+%2B+GenAIOps;Azure+MLOps+%26+Text-to-SQL+Systems;Always+learning%2C+always+building)
 
@@ -9,9 +11,11 @@
 ## 👨‍💻 About Me
 
 - 🤖 AI Engineer focused on Machine Learning, GenAI, and AI-powered Full-Stack systems
+- 💡 Focused on Machine Learning, Data Analytics, and AI-powered Full-Stack systems  
 - 💼 Building AI/ML tools for the **Destinity** hospitality platform
 - ☁️ Hands-on with **Azure AI Foundry**, MLOps pipelines, and GenAIOps practices
 - 🛠️ Recently shipped an end-to-end Text-to-SQL chatbot for hotel revenue & occupancy analytics
+- 🧠 Fun fact: Neural networks were inspired by the brain, but a single human brain still uses way less power than training one large mode!!!
 
 ---
 
@@ -25,23 +29,28 @@
 ---
 
 ## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Kavi274&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kavi274&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi274&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kavi274&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi274&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi274&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
 ## 🧰 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,fastapi,azure,scikitlearn,pytorch,sql,git,github,html,css,js&theme=dark)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,jupyter,fastapi,azure,aws,gcp,js,react,html,css,mysql,sql,git,github,linux,vscode&theme=dark" />
+</div>
 
 ---
 
 ## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kavi274&theme=tokyonight&column=6&no-frame=true&margin-w=12)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kavi274&theme=tokyonight&column=6&no-frame=true&margin-w=12" />
+</div>
 
 ---
 
@@ -53,8 +62,12 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+<div>
+  <a href="https://www.linkedin.com/in/kaviya-satheeshkumar-202ab2273/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>  
 
 ---
 
-🖤 *Build in silence. Let the results speak.*
+🖤 *📈 Turning data into decisions*
