@@ -36,13 +36,6 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kavi274&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kavi274&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavi274&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kavi274/Kavi274/output/github-contribution-grid-snake-dark.svg" />
