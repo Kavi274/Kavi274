@@ -103,8 +103,6 @@
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
 
-![Profile views](https://komarev.com/ghpvc/?username=Kavi274&color=0AAFFF&style=flat-square)
-
 
 
 *📈 Turning data into decisions*
