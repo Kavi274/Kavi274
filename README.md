@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🤖 AI Engineer focused on Machine Learning, GenAI, and AI-powered Full-Stack systems
+- 🤖 AI Engineering focused on Machine Learning, GenAI, and AI-powered Full-Stack systems
 - 💡 Focused on Machine Learning, Data Analytics, and AI-powered Full-Stack systems  
 - 💼 Building AI/ML tools for the hospitality platform
 - ☁️ Hands-on with **Azure AI Foundry**, MLOps pipelines, and GenAIOps practices
