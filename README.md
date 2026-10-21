@@ -1,5 +1,5 @@
 <h2> Hi, I'm Kaviya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src='https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif' width='230'>
 <p><em>AI Engineer Intern 🤖<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>BSc (Hons) Artificial Intelligence & Data Science Undergraduate 🎓<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -18,23 +18,13 @@ const kaviya = {
   interests: ["Machine Learning", "Generative AI", "AI Agents", "MLOps"],
   cloud: ["Azure AI Foundry"],
   currentlyWorkingOn: "Building AI-powered applications and Text-to-SQL systems"
+  funFact: "I train machines to learn while I'm still learning myself"
 }
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> :)</em>
 
----
 
-![](https://capsule-render.vercel.app/api?type=rect&color=0:0AAFFF,100:0d1117&height=3&section=header)
-
-## 👨‍💻 About Me
-
-- 🤖 AI Engineering focused on Machine Learning, GenAI, and AI-powered Full-Stack systems
-- 💡 Focused on Machine Learning, Data Analytics, and AI-powered Full-Stack systems  
-- 💼 Building AI/ML tools for the hospitality platform
-- ☁️ Hands-on with **Azure AI Foundry**, MLOps pipelines, and GenAIOps practices
-- 🛠️ Recently shipped an end-to-end Text-to-SQL chatbot for hotel revenue & occupancy analytics
-- 🧠 Fun fact **I train machines to learn while I'm still learning myself.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
