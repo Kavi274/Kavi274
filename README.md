@@ -1,4 +1,5 @@
 <h2> Hi, I'm Kaviya! <img src="ps://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/214643106-fcf2db22-1dbe-4a0e-b968-965451691119.jpg" width="200" />
 <p><em>AI Engineer Intern 🤖<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>BSc (Hons) Artificial Intelligence & Data Science Undergraduate 🎓<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -16,7 +17,7 @@ const kaviya = {
   tools: [Scikit-learn, Pandas, NumPy, FastAPI, Git, Docker],
   interests: ["Machine Learning", "Generative AI", "AI Agents", "MLOps"],
   cloud: ["Azure AI Foundry"],
-  currentlyWorkingOn: "Building AI-powered applications and Text-to-SQL systems"
+  currentlyWorkingOn: "Building AI-powered applications and Text-to-SQL systems",
   funFact: "I train machines to learn while I'm still learning myself"
 }
 ```
